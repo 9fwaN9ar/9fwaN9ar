@@ -4,7 +4,7 @@
 
 I focus on **Systems Engineering, Backend Infrastructure, and High-Performance Computing.**
 
-My passion lies in "software that respects the machine." I combine a strong foundation in low-level logic (C/C++) with an interest in scalable system architectures. With a background in active trading and financial markets, I understand the critical value of **latency, efficiency, and reliability** in production environments.
+My passion lies in "software that respects the machine." I combine a strong foundation in low-level logic (C/C++) with an interest in scalable system architectures. I understand the critical value of **latency, efficiency, and reliability** in production environments.
 
 ---
 
@@ -22,6 +22,5 @@ My passion lies in "software that respects the machine." I combine a strong foun
 
 * **Systems Programming:** Memory management, pointers, and resource optimization.
 * **The "Why" over the "How":** Interested in understanding the OS and Kernel levels rather than just using abstractions.
-* **Discipline:** I apply the same consistency to my code quality as I do to my training and bodybuilding schedule.
-
+  
 ![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=9fwan9ar&show_icons=true&theme=graywhite&hide_border=true)
