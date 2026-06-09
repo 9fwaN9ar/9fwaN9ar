@@ -2,7 +2,7 @@
 
 **Computer Science Student at the Technion.**
 
-I focus on **Systems Engineering, Backend Infrastructure, and High-Performance Computing.**
+I focus on **Systems Engineering, Low-Level Optimization and Mechanical Sympathy.**
 
 ---
 
