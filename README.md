@@ -12,7 +12,3 @@ I focus on **Systems Engineering, Low-Level Optimization and Mechanical Sympathy
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=9fwan9ar&show_icons=true&theme=graywhite&hide_border=true)
